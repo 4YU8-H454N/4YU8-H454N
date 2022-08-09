@@ -399,8 +399,8 @@ logo = ("""
 \x1b[1;92m ##    ## #### ##     ##  #######  ##    ## 
 
 
-\x1b[1;92m╔═════════════════════════════
-   \x1b[1;92m║➣TOOL NAME : { K1R0N }   
+   \x1b[1;92m╔═════════════════════════════
+   \x1b[1;92m║➣TOOL NAME : { K1R0N }
    \x1b[1;92m║➣AUTHOR    : AYUB HASAN KIRON      
    \x1b[1;92m║➣GITHUB    :  4YU8-H454N
    \x1b[1;92m║➣FACEBOOK  : AYUB HASAN KIRON  
