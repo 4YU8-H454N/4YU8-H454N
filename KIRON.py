@@ -399,12 +399,12 @@ logo = ("""
 \x1b[1;92m ##    ## #### ##     ##  #######  ##    ## 
 
 \x1b[1;91m ╔════════════════════════════════════════╗
-\x1b[1;92m ║𒁍[✔] DEVELOPER :      AYUB HASAN KIRON       ║
-\x1b[1;93m ║𒁍[✔] FACEBOOK  :      AYUB HASAN KIRON       ║
-\x1b[1;94m ║𒁍[✔] WHATSAPP  :      01909765573            ║
-\x1b[1;95m ║𒁍[✔] GITHUB    :      4YU8-H454N             ║
-\x1b[1;93m ║𒁍[✔] TOOLS     :      OLD ID CLONING b       ║
-\x1b[1;92m ║𒁍[✔] VERSION   :      1.0.0                  ║
+\x1b[1;92m ║𒁍[✔] DEVELOPER :      AYUB HASAN KIRON  ║
+\x1b[1;93m ║𒁍[✔] FACEBOOK  :      AYUB HASAN KIRON  ║
+\x1b[1;94m ║𒁍[✔] WHATSAPP  :      01909765573       ║
+\x1b[1;95m ║𒁍[✔] GITHUB    :      4YU8-H454N        ║
+\x1b[1;93m ║𒁍[✔] TOOLS     :      OLD ID CLONING    ║
+\x1b[1;92m ║𒁍[✔] VERSION   :      1.0.0             ║
 \x1b[1;91m ╚════════════════════════════════════════╝""")
 
 class Main:
