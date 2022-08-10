@@ -399,11 +399,11 @@ logo = ("""
 \x1b[1;92m ##    ## #### ##     ##  #######  ##    ## 
 
 ------------------------------------------------
- Owner   :         AYUB HASAN
+ Owner   :      AYUB HASAN
  Facebook:      AYUB HASAN KIRON
- GitHub  :         4YU8-H454N
- WhatsApp:     01909765573
- Version :         1.0.0
+ GitHub  :      4YU8-H454N
+ WhatsApp:      01909765573
+ Version :      1.0.0
 ------------------------------------------------""")
 
 
