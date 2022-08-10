@@ -1,4 +1,3 @@
-
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
@@ -420,14 +419,8 @@ class Main:
 		print(" [E] Exit Programming\n")
 		Ahsan =input(" Choose : ")
 		if Ahsan in ["1", "01"]:
-			File()
-		if Ahsan in ["2", "02"]:
-			Public()
-		if Ahsan in ["3", "03"]:
-			os.system("python Dump.py")
-		if Ahsan in ["4", "04"]:
 			self.old()
-		if Ahsan in ["5", "05"]:
+		if Ahsan in ["2", "02"]:
 			self.old2()
 			exit()
 		else:
